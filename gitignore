@@ -1,0 +1,36 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.unityproj
+
+# Build outputs
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# Misc
+*.pdb
+*.mdb
+sysinfo.txt
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
